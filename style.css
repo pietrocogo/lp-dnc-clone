@@ -164,6 +164,7 @@ button{
     width: 280px;
     height: 45px;
     font-weight: bold;
+    margin: 16px
 }
 
 button:hover{
